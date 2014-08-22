@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+# By Bodil Biering, 2014
 
 ## Input x is an invertible matrix, output is a list of functions to
 ## get and set x, and to get and set the cached inverse of x.
